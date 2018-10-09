@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id" : "23", "firstName": "Bill", "age": 20, "companyId": "1" },
+    { "id" : "40", "firstName": "Alex", "age": 40, "companyId": "2" },
+    { "id" : "41", "firstName": "Julius", "age": 40, "companyId": "1" }
+  ],
+  "companies": [
+    { "id": "1", "name": "Venture Garden Group", "description": "Vibranium Valley"},
+    { "id": "2", "name": "Andela", "description": "Brilliance is evenly distributed"}
+  ]
+}

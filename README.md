@@ -1,5 +1,20 @@
+/********************************
+| React 
+|
+| And
+|
+|
+| GraphQL
+|
+***********************************/
+
+
+### Project Setup
+
+`yarn install` or `npm install`
+
 ### To start JSON server
-This is used as the data store
+_This is used as the data store_
 
 `yarn run json:server`
 
